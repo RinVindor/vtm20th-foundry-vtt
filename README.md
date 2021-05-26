@@ -1,12 +1,11 @@
-# Mage: The Ascension 20th Anniversary Edition System for Foundry VTT
+# Vampire: The Masquerade 20th Anniversary Edition System for Foundry VTT
 
 [![Foundry Shield 0.7.9]][Foundry URL]
 [![MIT License]][MIT URL]
 
-This system is for playing Mage Ascension features of 20th Anniversary System for Foundry VTT.
+This system is for playing Vampire The Masquerade features of 20th Anniversary System for Foundry VTT.
 
-All this system was edited and remodelated from Vampire the Masquerade 5e System (link: [vtm5e]) created and susteined by [Rayji96],
-still have a lot working to do...
+All this system was edited and remodelated from Vampire the Masquerade 5e System (link: [vtm5e]) created and susteined by [Rayji96], then updated from [renanmsouza] who wrote the majority of the initial code used here for Mage 20th.
 
 All the credits to original team of creators is below.
 
@@ -14,7 +13,7 @@ Thanks!
 
 ## Feedback
 
-You can reach me out at RenanSouza#1493 on Discord with issues, feature requests, etc.
+You can reach me out at RinVindor#7525 on Discord with issues, feature requests, etc.
 
 ## Credits
 
@@ -38,3 +37,6 @@ You can reach me out at RenanSouza#1493 on Discord with issues, feature requests
 
 [vtm5e]: https://github.com/Rayji96/foundry-V5
 [Rayji96]: https://github.com/Rayji
+
+[renanmsouza]: https://github.com/renanmsouza/ma20th-foundry-vtt
+[ma20th]: https://github.com/renanmsouza/
